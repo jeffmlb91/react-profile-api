@@ -8,4 +8,4 @@ const PhoneNumber = ({number, type}) => (
     </div>
 )
 
-export default PhoneNumber;
+export default PhoneNumber; 
